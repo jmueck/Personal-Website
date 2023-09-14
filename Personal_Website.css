@@ -34,14 +34,95 @@ h1 {
     color: white;
   }
 
-  .name{
-    background-color: lightgrey;
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
+ 
+
+  .nature{
+    
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 40%
+  
   }
 
+  .name{
+    background-color: rgba(70, 131, 183, 0.7);
+    height: 15%;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 20px;
+    position: absolute;
+    
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Garamond", Times, serif;
+    color: white;
+    
+  }
+
+ 
+
+  .portrait{
+    width: 35%;
+    left: 50%;
+    display: block;
+    transform: translate(100%, 0%);
+  }
+
+
+  .intro{
+    background-color: rgba(70, 131, 183);
+    height: 140%;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 0px;
+    position: absolute;
+    
+    top: 53%;
+    width: 26%;
+    text-align: left;
+    font-size: 22px;
+    font-family: "Garamond", Times, serif;
+    color: white;
+    
+  }
+
+  .outside{
+    background-color: rgba(70, 131, 183);
+    height: 140%;
+    border: 1px solid black;
+    padding: 50px;
+    margin-left: 70%;
+    position: absolute;
+    
+    top: 53%;
+    width: 21%;
+    text-align: left;
+    font-size: 22px;
+    font-family: "Garamond", Times, serif;
+    color: white;
+    
+  }
+
+  .rect {
+    background-color: #82eefd;
+    height: 10%;
+    border: 1px solid black;
+    margin-top: 1%;
+  }
+
+  .elevation {
+    width: 35%;
+    left: 50%;
+    display: block;
+    transform: translate(100%, 5%);
+    height: 55%;
+  }
 
   </style>
 </head>
