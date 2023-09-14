@@ -114,6 +114,12 @@ h1 {
     height: 10%;
     border: 1px solid black;
     margin-top: 1%;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 30%;
+    width: 35%;
+    color: black;
+    font-size: 20px;
   }
 
   .elevation {
@@ -182,6 +188,79 @@ h1 {
   height: 50%;
   width: 33%;
 }
+
+/*Qualifications Page */
+
+.alaska {
+  display: block;
+  height: 100%;
+  width: 40%;
+  margin-left: 60%;
+}
+
+.techSkills {
+  background-color: rgba(70, 131, 183);
+  width: 50%;
+  color: white;
+  border: 1px solid black;
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+  transform: translate(0%, -250%);
+}
+
+.resumeHeading {
+  background-color: #82eefd;
+    height: 10%;
+    transform: translate(0%, -850%);
+    border: 1px solid black;
+    margin-top: 1%;
+    text-align: center;
+    width: 58%;
+    color: black;
+    font-size: 20px;
+}
+
+.resume {
+  position: absolute;
+  top: 80%;
+  left: .5%
+
+}
+
+.resume object {
+  width: 250%;
+  height: 600px;
+}
+
+.techIntr {
+  background-color: rgba(70, 131, 183);
+  width: 32%;
+  color: white;
+  border: 1px solid black;
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+  position: absolute;
+  top: 780px;
+  left: 780px;
+  height: 35%;
+}
+
+.intern {
+  background-color: rgba(70, 131, 183);
+  width: 95%;
+  color: white;
+  border: 1px solid black;
+  padding: 25px;
+  text-align: center;
+  font-size: 25px;
+  position: absolute;
+  top: 1125px;
+  height: 50px;
+}
+
+
 
   </style>
 </head>
