@@ -261,6 +261,66 @@ h1 {
 }
 
 
+/* Service Page */
+
+.nationals {
+  display: block;
+  height: 70%;
+  width: 50%;
+  margin-left: 50%;
+}
+
+.leader {
+  background-color: rgba(70, 131, 183);
+  width: 40%;
+  color: white;
+  border: 1px solid black;
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  top: -435px;
+}
+
+.river {
+  display: block;
+  height: 80%;
+  width: 48%;
+  position: relative;
+  top: -425px;
+}
+
+.bell {
+  display: block;
+  height: 80%;
+  width: 48%;
+  position: relative;
+  top: -400px;
+}
+
+.acadia {
+  display: block;
+  height: 70%;
+  width: 50%;
+  margin-left: 50%;
+  position: relative;
+  top: -1850px;
+}
+
+
+.activities {
+  background-color: rgba(70, 131, 183);
+  width: 45%;
+  color: white;
+  border: 1px solid black;
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  top: -1800px;
+  margin-left: 50%;
+}
+
 
   </style>
 </head>
