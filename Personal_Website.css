@@ -4,3 +4,46 @@ h1 {
     font-size: 50px;
     font-family: "Garamond", Times, serif;
   }
+
+  .navbar ul {
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #0492c2
+  }
+  
+  .navbar a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: auto;
+    display: flex;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .name{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+  </style>
+</head>
+<body>
+
