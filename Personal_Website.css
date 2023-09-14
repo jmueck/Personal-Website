@@ -35,7 +35,7 @@ h1 {
   }
 
  
-
+/* Landing Page */
   .nature{
     
   display: block;
@@ -123,6 +123,65 @@ h1 {
     transform: translate(100%, 5%);
     height: 55%;
   }
+
+/* Technical Portfolio */
+.firstRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.compProj {
+  background-color: rgba(70, 131, 183);
+  width: 33%;
+  color: white;
+  border: 1px solid black;
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.disc {
+  display: block;
+  height: 50%;
+  width: 33%;
+}
+
+.progProj {
+  background-color: rgba(70, 131, 183);
+  width: 33%;
+  color: white;
+  border: 1px solid black;
+    padding: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.secondRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dogs {
+  display: block;
+  height: 50%;
+  width: 33%;
+}
+
+.futProj {
+  background-color: rgba(70, 131, 183);
+  width: 33%;
+  color: white;
+  border: 1px solid black;
+    padding: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.dixie {
+  display: block;
+  height: 50%;
+  width: 33%;
+}
 
   </style>
 </head>
